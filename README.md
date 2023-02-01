@@ -1,3 +1,5 @@
+In the challenge, the hardest part to implement was the A* algorithm to find the best path for our boat. The A* algorithm can be found in the Bot.py file with all the othere methodes needed to make it work.
+
 ### Setup
 
 1. Create a virtual environment
